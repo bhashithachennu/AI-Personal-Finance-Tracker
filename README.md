@@ -123,6 +123,24 @@ Charts + Financial Insights
 
 ---
 
+---
+
+## Application Screenshots
+
+### Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Expense Analysis Charts
+
+![Charts](images/charts.png)
+
+### Financial Insights
+
+![Insights](images/insights.png)
+
+---
+
 ##  Future Improvements
 
 - Add user authentication
